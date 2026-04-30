@@ -1,4 +1,3 @@
-<!-- Header Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=180&section=header&animation=fadeIn&text=Yevhen%20Semeniuk&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Scientist%20→%20Experimentation%20%26%20A/B%20Testing&descAlignY=58&descColor=d4f5e2)
 
 <!-- Intro -->
