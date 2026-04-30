@@ -9,7 +9,6 @@ I'm a Data Analyst with **5+ years** building and shipping production forecastin
 ## 🛠️ Technical Stack
 
 #### Experimentation & Statistics
-![Skills](https://skillicons.dev/icons?i=python,r)
 `Hypothesis Testing` `Bayesian Inference` `Power Analysis` `Causal Inference` `Bootstrap` `CUPED`
 
 #### Data & Engineering
