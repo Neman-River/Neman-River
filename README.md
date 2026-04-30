@@ -13,11 +13,10 @@ I'm a Data Analyst with **5+ years** building and shipping production forecastin
 `Hypothesis Testing` `Bayesian Inference` `Power Analysis` `Causal Inference` `Bootstrap` `CUPED`
 
 #### Data & Engineering
-![Skills](https://skillicons.dev/icons?i=python,r,sql,docker,git,linux)
+![Skills](https://skillicons.dev/icons?i=python,r,sql,git,linux)
 `pandas` `numpy` `scipy` `tidyverse` `fable` `prophet` `Streamlit` `Shiny`
 
 #### ML & AI (prior work)
-![Skills](https://skillicons.dev/icons?i=pytorch,postgresql,mongodb,firebase)
 `Time Series Forecasting` `LLMs` `Vision Transformers` `Semantic Search` `ChromaDB`
 
 ---
